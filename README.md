@@ -59,3 +59,8 @@ This will print messages to the console from each module describing its purpose.
 ## 📚 Reference
 
 Inspired by: [LearnPython – Python Packages](https://learnpython.com/blog/most-popular-python-packages/)
+
+## 🔗 GitHub Repository
+
+You can find the full project on GitHub:  
+[https://github.com/rsoft-latam/intro-ml-project-structure](https://github.com/rsoft-latam/intro-ml-project-structure)
